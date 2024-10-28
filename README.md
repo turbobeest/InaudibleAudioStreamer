@@ -1,4 +1,5 @@
 Inaudible Audio Streamer
+
 This project is a Windows application that plays a continuous, inaudible audio stream to keep SONOS speakers active. 
 By playing a high-frequency, low-volume signal, the application prevents speakers from entering a power-saving mode, 
 ensuring they stay ready for immediate audio output.
